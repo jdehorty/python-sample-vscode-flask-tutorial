@@ -1,0 +1,1 @@
+C:\src\ninecapture-ml-service\ninecapture-ml-service\ninecapture-ml-service\obj\Any CPU\Debug\ninecapture-ml-service.pyproj.CoreCompileInputs.cache
